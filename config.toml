@@ -1,8 +1,8 @@
 base_url = 'https://design.blitzw.in'
+theme = "https://github.com/jacksalici/salinger-theme/"
 
 [module]
   [module.hugoVersion]
     extended = false
     max = ''
     min = '0.87.0'
-
