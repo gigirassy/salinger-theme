@@ -3,3 +3,4 @@
     extended = false
     max = ''
     min = '0.87.0'
+    base_url = 'https://design.blitzw.in'
